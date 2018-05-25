@@ -12,7 +12,7 @@ Includes Autoexec file which includes all my config such as:
   
 # BUY BINDS
 #NUMPAD 
-   -----------------------------
+```   -----------------------------
    |  Num   |    /   |    *    |  
    |  Lock  |  Zeus  |   P250  |
    |        |        |         |
@@ -32,10 +32,10 @@ Includes Autoexec file which includes all my config such as:
    |        0        |    •    |  
    |    Flashbang    |  Deagle |
    |                 |         |
-   -----------------------------
+   -----------------------------```
 
 #WITHOUT NUMPAD
-   -----------------------------
+```   -----------------------------
    | INSERT |  HOME  | PAGE UP |  
    |  Vest  |  Nades |  AK/M4  |
    |        |        |         |
@@ -54,4 +54,4 @@ Includes Autoexec file which includes all my config such as:
    |    ←   |    ↓   |    →    |  
    | Deagle | HE-Nade|  Flash  |
    |        |        |         |
-   -----------------------------
+   -----------------------------```
