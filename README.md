@@ -11,7 +11,7 @@ Includes Autoexec file which includes all my config such as:
   • Buy Menu Binds 
   
 # BUY BINDS
-#NUMPAD 
+**NUMPAD** 
 ```
    -----------------------------
    |  Num   |    /   |    *    |  
@@ -36,7 +36,7 @@ Includes Autoexec file which includes all my config such as:
    -----------------------------
 ```
 
-#WITHOUT NUMPAD
+**WITHOUT NUMPAD**
 ```
    -----------------------------
    | INSERT |  HOME  | PAGE UP |  
