@@ -32,7 +32,7 @@ Includes Autoexec file which includes all my config such as:
    |        0        |    •    |  
    |    Flashbang    |  Deagle |
    |                 |         |
-   -----------------------------```
+   -----------------------------
 
 #WITHOUT NUMPAD
 ```   -----------------------------
