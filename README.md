@@ -9,13 +9,14 @@ Includes Autoexec file which includes all my config such as:
   • Basic Keybinds     
   • Nade Keybinds      
   • Buy Menu Binds 
+  • Shortened Commands 
   
 # BUY BINDS
 **NUMPAD** 
 ```
    -----------------------------
    |  Num   |    /   |    *    |  
-   |  Lock  |  Zeus  |   P250  |
+   |  Lock  |   HE   |   P250  |
    |        |        |         |
    -----------------------------
    |    7   |    8   |    9    |  
