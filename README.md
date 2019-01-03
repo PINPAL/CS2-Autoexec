@@ -8,7 +8,7 @@ Includes Autoexec file which includes all my config such as:
   • Sound Config       
   • Basic Keybinds     
   • Nade Keybinds      
-  • Buy Menu Binds 
+  • Buy Menu Binds
   • Shortened Commands 
   
 # BUY BINDS
