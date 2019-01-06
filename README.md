@@ -29,10 +29,10 @@ team   - No Team Limit
 ```
   
 # Buy Binds
-**NUMPAD**
+**Numpad**
 
 ![NumpadBinds](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/BuyBinds.png)
 
-**WITHOUT NUMPAD**
+**Without Numpad**
 
 ![NonNumpadBinds](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/BuyBindsNoNum.png)
