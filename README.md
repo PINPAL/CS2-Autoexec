@@ -31,7 +31,7 @@ team   - No Team Limit
   
 # Buy Binds
 **Numpad**<br/>
-More buttons equals more binds :P
+More buttons equals more binds.
 ![NumpadBinds](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/BuyBinds.png)
 
 **Without Numpad**<br/>
