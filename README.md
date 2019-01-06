@@ -33,8 +33,8 @@ Enter these shorter commands into the console to speed up your workflow.
 # Buy Binds
 **Numpad**<br/>
 More buttons equals more binds.<br/>
-![NumpadBinds](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/Buy Binds.png)
+![NumpadBinds](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/Binds.png)
 
 **Without Numpad**<br/>
 Only got a 104 key keyboard?<br/>
-![NonNumpadBinds](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/Buy Binds Numless.png)
+![NonNumpadBinds](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/BindsNumless.png)
