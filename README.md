@@ -1,8 +1,7 @@
 # CSGO-Configs
 Config Files for CS:GO - Includes custom execs for custom gamemodes.
 
-Includes autoexec file which includes all my configuration such as:
-
+Includes autoexec file which includes all my configuration such as:<br/>
   • Viewmodel          
   • Crosshair          
   • Sound Config       
@@ -30,10 +29,10 @@ team   - No Team Limit
 ```
   
 # Buy Binds
-**Numpad**
+**Numpad**<br/>
 More buttons equals more binds :P
 ![NumpadBinds](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/BuyBinds.png)
 
-**Without Numpad**
+**Without Numpad**<br/>
 Only got a 104 key keyboard? 
 ![NonNumpadBinds](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/BuyBindsNoNum.png)
