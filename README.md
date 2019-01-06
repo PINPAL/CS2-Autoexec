@@ -12,21 +12,23 @@ Includes autoexec file which includes all my configuration such as:
 
 # Console Shortcuts
 Enter these shorter commands into the console to speed up your workflow.
-```
-q      -  Quit Game
-d      -  Disconnect
-r      -  Restart Lobby
-ref    -  Reload AutoExec
-ctb    -  Add Bot to CT
-tb     -  Add Bot to T
-kb     -  Kick Bots
-m9     -  Give M9 Bayonet
-prac   -  Practice Config
-bhop   -  Bhop Config
-kz     -  KZ Config
-vv     -  1v1 Config
-team   -  No Team Limit
-```
+
+|Shortcut      |Description        |
+| ------------ | ------------------ |
+| q            | Quit Game          |
+| d            | Disconnect         |
+| r            | Restart Lobby      |
+| ref          | Reload AutoExec    |
+| ctb          | Add Bot to CT      |
+| tb           | Add Bot to T       |
+| kb           | Kick Bots          |
+| m9           | Give M9 Bayonet    |
+| prac         | Practice Config    |
+| bhop         | Bhop Config        |
+| kz           | KZ Config          |
+| vv           | 1v1 Config         |
+| team         | No Team Limit      |
+
   
 # Buy Binds
 **Numpad**<br/>
