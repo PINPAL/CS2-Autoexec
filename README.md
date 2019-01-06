@@ -1,8 +1,7 @@
 # CSGO-Configs
 Config Files for CS:GO - Includes custom execs for custom gamemodes.
 
-Includes Autoexec file which includes all my config such as:
-
+Includes autoexec file which includes all my configuration such as:
   • Viewmodel          
   • Crosshair          
   • Sound Config       
@@ -12,6 +11,7 @@ Includes Autoexec file which includes all my config such as:
   • Shortened Commands
 
 # Console Shortcuts
+Enter these shorter commands into the console to speed up your workflow.
 ```
 q      -  Quit Game
 d      -  Disconnect
