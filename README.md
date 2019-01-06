@@ -1,7 +1,7 @@
 # CSGO-Configs
 Config Files for CS:GO - Includes custom execs for custom gamemodes.
 
-Includes Autoexec file which includes all my config such as:
+Includes autoexec file which includes all my configuration such as:
 
   • Viewmodel          
   • Crosshair          
@@ -12,6 +12,7 @@ Includes Autoexec file which includes all my config such as:
   • Shortened Commands
 
 # Console Shortcuts
+Enter these shorter commands into the console to speed up your workflow.
 ```
 q      -  Quit Game
 d      -  Disconnect
@@ -29,10 +30,10 @@ team   - No Team Limit
 ```
   
 # Buy Binds
-**NUMPAD**
-
+**Numpad**<br/>
+More buttons equals more binds.
 ![NumpadBinds](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/BuyBinds.png)
 
-**WITHOUT NUMPAD**
-
+**Without Numpad**<br/>
+Only got a 104 key keyboard? 
 ![NonNumpadBinds](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/BuyBindsNoNum.png)
