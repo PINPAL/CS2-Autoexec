@@ -9,54 +9,28 @@ Includes Autoexec file which includes all my config such as:
   • Basic Keybinds     
   • Nade Keybinds      
   • Buy Menu Binds    
-  • Shortened Commands 
+  • Shortened Commands
+
+# Console Shortcuts
+```
+q        -  Quit Game
+d        -  Disconnect
+r         -  Restart Lobby
+ref      -  Reload AutoExec
+ctb     -  Add Bot to CT
+tb       -  Add Bot to T
+kb      -  Kick Bots
+m9     -  Give M9 Bayonet
+prac   -  Practice Config
+bhop -  Bhop Config
+kz      -  KZ Config
+vv      - 1v1 Config
+team - No Team Limit
+```
   
-# BUY BINDS
+# Buy Binds
 **NUMPAD** 
-```
-   -----------------------------
-   |  Num   |    /   |    *    |  
-   |  Lock  |   HE   |   P250  |
-   |        |        |         |
-   -----------------------------
-   |    7   |    8   |    9    |  
-   | Helmet | NoClip |   AWP   |
-   |        |        |         |
-   -----------------------------
-   |    4   |    5   |    6    |  
-   | Kevlar |  Nades |  AK/M4  |
-   |        |        |         |
-   -----------------------------
-   |    1   |    2   |    3    |  
-   | Defuse |  CZ-75 |   MP9   |
-   |        |        |         |
-   -----------------------------
-   |        0        |    •    |  
-   |    Flashbang    |  Deagle |
-   |                 |         |
-   -----------------------------
-```
+![NumpadBinds](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/BuyBinds.png)
 
 **WITHOUT NUMPAD**
-```
-   -----------------------------
-   | INSERT |  HOME  | PAGE UP |  
-   |  Vest  |  Nades |  AK/M4  |
-   |        |        |         |
-   -----------------------------
-   | DELETE |  END   |PAGE DOWN|  
-   | Helmet | Defuse |   AWP   |
-   |        |        |         |
-   -----------------------------
-
-
-            ----------
-            |    ↑   |  
-            |Console |
-            |        |
-   -----------------------------
-   |    ←   |    ↓   |    →    |  
-   | Deagle | HE-Nade|  Flash  |
-   |        |        |         |
-   -----------------------------
-```
+![NonNumpadBinds](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/BuyBindsNoNum.png)
