@@ -31,9 +31,9 @@ team   - No Team Limit
   
 # Buy Binds
 **Numpad**
-
+More buttons equals more binds :P
 ![NumpadBinds](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/BuyBinds.png)
 
 **Without Numpad**
-
+Only got a 104 key keyboard? 
 ![NonNumpadBinds](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/BuyBindsNoNum.png)
