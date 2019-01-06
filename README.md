@@ -25,8 +25,8 @@ m9     -  Give M9 Bayonet
 prac   -  Practice Config
 bhop   -  Bhop Config
 kz     -  KZ Config
-vv     - 1v1 Config
-team   - No Team Limit
+vv     -  1v1 Config
+team   -  No Team Limit
 ```
   
 # Buy Binds
