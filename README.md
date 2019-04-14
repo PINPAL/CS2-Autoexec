@@ -22,7 +22,7 @@ Enter these shorter commands into the console to speed up your workflow.
 | ctb          | Add Bot to CT      |
 | tb           | Add Bot to T       |
 | kb           | Kick Bots          |
-| m9           | Give M9 Bayonet    |
+| knife        | Knife Menu         |
 | prac         | Practice Config    |
 | bhop         | Bhop Config        |
 | kz           | KZ Config          |
