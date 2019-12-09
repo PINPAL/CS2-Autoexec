@@ -22,14 +22,16 @@ Enter these shorter commands into the console to speed up your workflow.
 | ctb          | Add Bot to CT      |
 | tb           | Add Bot to T       |
 | kb           | Kick Bots          |
-| knife        | Knife Menu         |
 | prac         | Practice Config    |
 | bhop         | Bhop Config        |
 | kz           | KZ Config          |
+| lkz          | Vanilla KZ Config  |
 | vv           | 1v1 Config         |
 | team         | No Team Limit      |
+| hax          | Enable sv_cheats   |
+| knife        | Knife Menu         |
 
-  
+
 # Buy Binds
 **Numpad**<br/>
 More buttons equals more binds.<br/>
