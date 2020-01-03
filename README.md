@@ -9,6 +9,12 @@ Includes autoexec file which includes all my configuration such as:
   • Nade Keybinds      
   • Buy Menu Binds    
   • Shortened Commands
+  
+# Installation
+Navigate to:
+```~SteamInstallFolder\Counter-Strike Global Offensive\csgo\cfg```
+(Where `~SteamInstallFolder` refers to your steam games installation directory.
+Then place all of the `.cfg` files into the folder.
 
 # Console Shortcuts
 Enter these shorter commands into the console to speed up your workflow.
