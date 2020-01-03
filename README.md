@@ -13,24 +13,24 @@ Includes autoexec file which includes all my configuration such as:
 # Console Shortcuts
 Enter these shorter commands into the console to speed up your workflow.
 
-|Shortcut      |Description                             |
-| ------------ | ------------------------------------- |
-| q            | Quit Game          |
-| d            | Disconnect         |
-| r            | Restart Lobby      |
-| ref          | Reload AutoExec    |
-| ctb          | Add Bot to CT      |
-| tb           | Add Bot to T       |
-| kb           | Kick Bots          |
-| prac         | Practice Config    |
-| bhop         | Bhop Config        |
-| kz           | KZ Config          |
-| lkz          | Vanilla KZ Config  |
-| vv           | 1v1 Config         |
-| team         | No Team Limit      |
-| hax          | Enable sv_cheats   |
-| knife        | Knife Menu         |
-| fast         | Reduce Round Restart Delay & Freeze Time |
+|Shortcut      |Description          |
+| ------------ | ------------------- |
+| q            | Quit Game           |
+| d            | Disconnect          |
+| r            | Restart Lobby       |
+| ref          | Reload AutoExec     |
+| ctb          | Add Bot to CT       |
+| tb           | Add Bot to T        |
+| kb           | Kick Bots           |
+| prac         | Practice Config     |
+| bhop         | Bhop Config         |
+| kz           | KZ Config           |
+| lkz          | Vanilla KZ Config   |
+| vv           | 1v1 Config          |
+| team         | No Team Limit       |
+| hax          | Enable sv_cheats    |
+| knife        | Knife Menu          |
+| fast         | Reduce Freeze Time  |
 
 # Buy Binds
 **Numpad**<br/>
