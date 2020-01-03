@@ -30,7 +30,7 @@ Enter these shorter commands into the console to speed up your workflow.
 | team         | No Team Limit      |
 | hax          | Enable sv_cheats   |
 | knife        | Knife Menu         |
-
+| fast         | Reduce Freeze Time |
 
 # Buy Binds
 **Numpad**<br/>
