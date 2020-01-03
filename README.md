@@ -12,8 +12,9 @@ Includes autoexec file which includes all my configuration such as:
   
 # Installation
 1. Navigate to: ```~SteamInstallFolder\Counter-Strike Global Offensive\csgo\cfg```
-2. (Where `~SteamInstallFolder` refers to your steam games installation directory.
-3. Then place all of the `.cfg` files into the folder.
+   (Where `~SteamInstallFolder` refers to your steam games installation directory.
+2. Then place all of the `.cfg` files into the folder.
+3. Launch CS:GO and enjoy!
 
 # Console Shortcuts
 Enter these shorter commands into the console to speed up your workflow.
