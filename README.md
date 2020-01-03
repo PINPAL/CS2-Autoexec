@@ -13,8 +13,8 @@ Includes autoexec file which includes all my configuration such as:
 # Console Shortcuts
 Enter these shorter commands into the console to speed up your workflow.
 
-|Shortcut      |Description        |
-| ------------ | ------------------ |
+|Shortcut      |Description                             |
+| ------------ | ------------------------------------- |
 | q            | Quit Game          |
 | d            | Disconnect         |
 | r            | Restart Lobby      |
@@ -30,7 +30,7 @@ Enter these shorter commands into the console to speed up your workflow.
 | team         | No Team Limit      |
 | hax          | Enable sv_cheats   |
 | knife        | Knife Menu         |
-| fast         | Reduce Freeze Time |
+| fast         | Reduce Round Restart Delay & Freeze Time |
 
 # Buy Binds
 **Numpad**<br/>
