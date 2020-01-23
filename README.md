@@ -1,20 +1,13 @@
-# CSGO-Configs
-Config Files for CS:GO - Includes custom execs for custom gamemodes.<br/>
-Includes autoexec file which includes all my configuration such as:
+# QWERTY - Full Size
 
-  • Viewmodel          
-  • Crosshair          
-  • Sound Config       
-  • Basic Keybinds     
-  • Nade Keybinds      
-  • Buy Menu Binds    
-  • Shortened Commands
-  
 # Installation
-1. Navigate to: ```~SteamInstallFolder\Counter-Strike Global Offensive\csgo\cfg```
-   (Where `~SteamInstallFolder` refers to your steam games installation directory.
-2. Then place all of the `.cfg` files into the folder.
-3. Launch CS:GO and enjoy!
+1. Open Steam
+2. Right click CS:GO and click `Properties`
+3. Navigate to the `Local Files` tab at the top
+4. Click the `Browse Local Files` button
+5. In the window that pops up navigate to: ```\csgo\cfg```
+6. Then place all of the `.cfg` files into the folder.
+7. Launch CS:GO and enjoy!
 
 # Console Shortcuts
 Enter these shorter commands into the console to speed up your workflow.
@@ -40,10 +33,4 @@ Enter these shorter commands into the console to speed up your workflow.
 | lan          | Join LAN Server     |
 
 # Buy Binds
-**Numpad**<br/>
-More buttons equals more binds.<br/>
 ![NumpadBinds](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/Binds.png)
-
-**Without Numpad**<br/>
-Only got a TKL keyboard?<br/>
-![NonNumpadBinds](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/Binds-Numless.png)
