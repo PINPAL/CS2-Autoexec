@@ -21,5 +21,5 @@ https://github.com/PINPAL/CSGO-Autoexec/tree/qwerty-numless<br/>
 For a TKL keyboard please refer to the `qwerty-numless` branch.
 
 **QWERTY - 60%**<br/>
-https://github.com/PINPAL/CSGO-Autoexec/tree/60%s<br/>
+https://github.com/PINPAL/CSGO-Autoexec/tree/60%25<br/>
 For a 60% or 65% keyboard please refer to the `60%` branch.
