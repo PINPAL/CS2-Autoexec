@@ -16,6 +16,6 @@ Includes autoexec file which includes all my configuration such as:
 https://github.com/PINPAL/CSGO-Autoexec/tree/qwerty<br/>
 For a full size or 96% keyboard please refer to the `qwerty` branch.
 
-**QWERTY - 60%**<br/>
+**QWERTY - Compact**<br/>
 https://github.com/PINPAL/CSGO-Autoexec/tree/60%25<br/>
 For a TKL, 60% or 65% keyboard please refer to the `60%` branch.
