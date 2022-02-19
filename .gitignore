@@ -3,13 +3,13 @@
 !activateDroppedKnife.cfg
 !autoexec.cfg
 !bhop.cfg
-!buybinds.cfg
 !cheats.cfg
 !crosshair.cfg
-!demo.cfg
 !keybinds.cfg
 !kz.cfg
 !lkz.cfg
 !offline.cfg
 !.gitignore
 !printMsg.cfg
+!cross.cfg
+!dot.cfg
