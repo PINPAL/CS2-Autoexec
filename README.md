@@ -20,14 +20,18 @@
 
 # Includes:
 
-• Viewmodel<br/>
-• Crosshair<br/>
-• Grenade Crosshair<br/>
-• Sound Config<br/>
-• Basic Keybinds<br/>
-• Grenade Keybinds<br/>
-• Buy Menu Binds<br/>
-• Shortened Commands<br/>
+- Viewmodel
+- Crosshair
+- Grenade Crosshair
+- Network Optimisations
+- Performance Optimisations
+- Sound Config
+- Basic Keybinds
+- Grenade Keybinds
+- Buy Menu Binds
+- Shortened Command Aliases
+- Language File Simplifications
+- Gamemode Execs (bhop/kz/1v1) for local hosting
 
 # Keybindings
 
