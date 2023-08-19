@@ -6,15 +6,19 @@
 
 1. Open Steam
 2. Right click CS:GO and click `Properties`
-3. Navigate to the `Installed Files` tab along the left side.
-4. Click the `Browse` button
-5. In the window that pops up navigate to: `\csgo\resource`
-6. Download the language file from: [Github Here](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/csgo_pinpal.txt)
-7. Place the `csgo_pinpal.txt` file into this folder.
-8. Navigate back one folder to: `\csgo\cfg`
-9. Download all CFGs from: [Github Here](https://github.com/PINPAL/CSGO-Autoexec/tree/60%25)
-10. Then place all of the `.cfg` files into the folder.
-11. Launch CS:GO and enjoy!
+3. In the `Launch Options` box at the bottom of this window, insert the following:
+```
++exec autoexec -preload -fullscreen -high -language pinpal -novid -tickrate 128 -nojoy -allow_third_party_software
+```
+4. Navigate to the `Installed Files` tab along the left side.
+5. Click the `Browse` button
+6. In the window that pops up navigate to: `\csgo\resource`
+7. Download the language file from: [Github Here](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/csgo_pinpal.txt)
+8. Place the `csgo_pinpal.txt` file into this folder.
+9. Navigate back one folder to: `\csgo\cfg`
+10. Download all CFGs from: [Github Here](https://github.com/PINPAL/CSGO-Autoexec/tree/60%25)
+11. Then place all of the `.cfg` files into the folder.
+12. Launch CS:GO and enjoy!
 
 # Includes:
 
