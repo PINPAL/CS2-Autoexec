@@ -1,0 +1,47 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": ["/lang/*.json"],
+      "url": "./.vscode/probe.lang-schema.json"
+    },
+    {
+      "fileMatch": ["/probe/docs/*.json"],
+      "url": "./.vscode/probe.doc-schema.json"
+    }
+  ],
+  "files.exclude": {
+    // Wildcard Selects for config files
+    "controller*.cfg": true,
+    "game*.cfg": true,
+    "op08*.cfg": true,
+    // Specific Selects for config files
+    "ai.cfg": true,
+    "beat.cfg": true,
+    "config*.cfg": true,
+    "entity.cfg": true,
+    "fliphand.cfg": true,
+    "hud.cfg": true,
+    "lab.cfg": true,
+    "listenserver.cfg": true,
+    "map_edit.cfg": true,
+    "nav_bindings.cfg": true,
+    "navedit.cfg": true,
+    "modsettings.cfg": true,
+    "render_radar.cfg": true,
+    "start.cfg": true,
+    "default.cfg": true,
+    "give_all_items.cfg": true,
+    "steering_wheel.cfg": true,
+    "thirdperson.cfg": true,
+    "thirdperson_joy360.cfg": true,
+    "thirdperson_keypad.cfg": true,
+    "thirdperson_mayamode.cfg": true,
+    "undo360controller.cfg": true,
+    // Wildcard Selects for other files
+    "*.vdf": true,
+    "*.ekv": true,
+    "*.scr": true,
+    "*.txt": true,
+    "*.rc": true
+  }
+}
