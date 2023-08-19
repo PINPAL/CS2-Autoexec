@@ -1,5 +1,7 @@
 # QWERTY - Full Size
 
+## WARNING: This branch is depreciated and may not work correctly.
+
 # Installation
 1. Open Steam
 2. Right click CS:GO and click `Properties`
