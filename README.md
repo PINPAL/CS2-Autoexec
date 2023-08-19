@@ -39,6 +39,12 @@
 
 ![Binds](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/console.png)
 
+# Keybindings
+
+## For GOTV Demo Playback
+
+![DemoControls](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/demo_controls.png)
+
 # Supported Keyboard Layout
 
 ![](https://github.com/PINPAL/CSGO-Autoexec/blob/master/readme/large.png?raw=true)
