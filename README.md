@@ -1,5 +1,3 @@
-# QWERTY - Full Size
-
 # Installation
 
 1. Open Steam
