@@ -39,8 +39,6 @@
 
 ![Binds](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/console.png)
 
-# Keybindings
-
 ## For GOTV Demo Playback
 
 ![DemoControls](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/demo_controls.png)
