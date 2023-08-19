@@ -4,7 +4,6 @@
 - WARNING 
 @@ This branch is depreciated and may not work correctly. @@
 ```
-## WARNING: 
 
 # Installation
 1. Open Steam
