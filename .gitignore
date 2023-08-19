@@ -15,4 +15,5 @@
 !printMsg.cfg
 !cross.cfg
 !dot.cfg
+!.vscode
 !.vscode/**
