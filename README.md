@@ -1,10 +1,12 @@
+## This is an early version for Counter Strike 2
+
 # Installation
 
 1. Open Steam
 2. Right click CS:GO and click `Properties`
 3. Navigate to the `Local Files` tab at the top
 4. Click the `Browse Local Files` button
-5. In the window that pops up navigate to: `\csgo\cfg`
+5. In the window that pops up navigate to: `game\csgo\cfg`
 6. Then place all of the `.cfg` files into the folder.
 7. Launch CS:GO and enjoy!
 
