@@ -12,4 +12,4 @@
 
 # Keybindings
 
-![Binds](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/60percent.png)
+![Binds](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/CS2.png)
