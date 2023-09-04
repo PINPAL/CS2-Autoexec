@@ -4,7 +4,9 @@
 
 # CS2 Beta
 **Config Files updated for CS2 available here:**
+
 https://github.com/PINPAL/CSGO-Autoexec/tree/cs2-60%25
+
 No release files available at this time, please download files manually from source.
 
 # Installation
