@@ -37,11 +37,14 @@
     "thirdperson_keypad.cfg": true,
     "thirdperson_mayamode.cfg": true,
     "undo360controller.cfg": true,
+    "server*.cfg": true,
+    "perftest.cfg": true,
     // Wildcard Selects for other files
     "*.vdf": true,
     "*.ekv": true,
     "*.scr": true,
     "*.txt": true,
-    "*.rc": true
+    "*.rc": true,
+    "*.vcfg": true
   }
 }
