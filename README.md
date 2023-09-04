@@ -1,13 +1,15 @@
+> ## CS2 Beta
+> 
+> No release files available for CS2 at this time, please download files manually from source.
+> 
+> You can find them updated for CS2 here:
+> 
+> [CS2 Beta Branch](https://github.com/PINPAL/CSGO-Autoexec/tree/cs2-60%25)
+> 
+
 # CSGO Configs
 
 **Config Files for CS:GO - Includes custom execs for custom gamemodes.<br/>**
-
-# CS2 Beta
-**Config Files updated for CS2 available here:**
-
-https://github.com/PINPAL/CSGO-Autoexec/tree/cs2-60%25
-
-No release files available for CS2 at this time, please download files manually from source.
 
 # Installation
 
