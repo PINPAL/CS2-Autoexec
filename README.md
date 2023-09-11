@@ -15,7 +15,7 @@
 
 # Installation
 
-1. Download [the latest release from Github](https://github.com/PINPAL/CSGO-Autoexec/releases/)
+1. Download [the latest release from Github](https://github.com/PINPAL/CSGO-Autoexec/releases/latest)
 2. Extract the zip file to find 2 folders inside.
 3. Open Steam
 4. Right click CS:GO and click `Properties`
