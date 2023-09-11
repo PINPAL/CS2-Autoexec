@@ -5,6 +5,7 @@
 > You can find them updated for CS2 here:
 > 
 > [CS2 Beta Branch](https://github.com/PINPAL/CSGO-Autoexec/tree/cs2-60%25)
+> [CS2 Beta Release Files](https://github.com/PINPAL/CSGO-Autoexec/releases/tag/3.0.0)
 > 
 
 # CSGO Configs
