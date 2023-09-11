@@ -1,11 +1,12 @@
 > ## CS2 Beta
 > 
-> No release files available for CS2 at this time, please download files manually from source.
+> Release files may not be up to date for CS2 at this time.
 > 
-> You can find them updated for CS2 here:
+> Configs updated for CS2 can be found here:
 > 
-> [CS2 Beta Branch](https://github.com/PINPAL/CSGO-Autoexec/tree/cs2-60%25)
-> [CS2 Beta Release Files](https://github.com/PINPAL/CSGO-Autoexec/releases/tag/3.0.0)
+> [Beta Branch for manual download (most up to date link)](https://github.com/PINPAL/CSGO-Autoexec/tree/cs2-60%25)
+> 
+> Release Files: [CS2 Beta Release Files](https://github.com/PINPAL/CSGO-Autoexec/releases/tag/3.0.0)
 > 
 
 # CSGO Configs
