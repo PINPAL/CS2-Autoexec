@@ -4,7 +4,7 @@
 
 # Installation
 
-1. Download [the latest release from Github](https://github.com/PINPAL/CSGO-Autoexec/releases/latest/download/configs.zip)
+1. Download [the latest release from Github](https://github.com/PINPAL/CS2-Autoexec/releases/latest/download/configs.zip)
 2. Extract the zip file to find 2 folders inside.
 3. Open Steam
 4. Right click Counter Strike 2 and click `Properties`
@@ -38,11 +38,11 @@
 
 # Keybindings
 
-![Binds](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/CS2.png)
+![Binds](https://raw.githubusercontent.com/PINPAL/CS2-Autoexec/master/readme/CS2.png)
 
 ## For GOTV Demo Playback
-
-![DemoControls](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/demo_controls.png)
+Note: This config is still being worked on for CS2
+![DemoControls](https://raw.githubusercontent.com/PINPAL/CS2-Autoexec/master/readme/demo_controls.png)
 
 # Supported Keyboard Layout
 
