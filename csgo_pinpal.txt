@@ -1,246 +1,123 @@
-// Based upon Enhanced Text color Mod 4.2
-// Original idea by Orel & spddl
-// Rewritten and edited by BananaGaming
-
-// Additional Modifications made by PINPAL
-
-"lang"
-{
-"Language" "English"
+"Source"                                                "https://gist.github.com/xPaw/056b29be7ae9c143ed623a9c4c10cf50"
+"Modified by PINPAL"                                    "https://github.com/PINPAL/CS2-Autoexec"
 "Tokens"
-{ 
-// -------------------------------------------------------------------------------------------
-	// MATCH READY BUTTON
-	
-		"match_ready_accept"				"DERANK NOW"
-		
-	// SKILL GROUPS
-	
-		"skillgroup_1"						"(1/18) Silver I"
-		"skillgroup_2"						"(2/18) Silver II"
-		"skillgroup_3"						"(3/18) Silver III"
-		"skillgroup_4"						"(4/18) Silver IV"
-		"skillgroup_5"						"(5/18) Silver Elite"
-		"skillgroup_6"						"(6/18) Silver Elite Master"
-		"skillgroup_7"						"(7/18) Gold Nova I"
-		"skillgroup_8"						"(8/18) Gold Nova II"
-		"skillgroup_9"						"(9/18) Gold Nova III"
-		"skillgroup_10"						"(10/18) Gold Nova Master"
-		"skillgroup_11"						"(11/18) Master Guardian I"
-		"skillgroup_12"						"(12/18) Master Guardian II"
-		"skillgroup_13"						"(13/18) Master Guardian Elite"
-		"skillgroup_14"						"(14/18) Distinguished Master Guardian"
-		"skillgroup_15"						"(15/18) Legendary Eagle"
-		"skillgroup_16"						"(16/18) Legendary Eagle Master"
-		"skillgroup_17"						"(17/18) Supreme Master First Class"
-		"skillgroup_18"						"(18/18) The Global Elite"
-	
-	// PLAY OPTIONS (MENUS)
-	
-		"play_setting_online"				"Online"
-		"play_setting_offline"				"Offline"
-		"play_setting_training_course"		"Training"
-		"play_setting_workshop"				"Workshop"
-		"play_setting_community"			"Community"
-		
-	// INVENTORY TEAM INFO
-	
-		"CSGO_Inventory_Team_Any"			""
-		"CSGO_Inventory_Team_CT"			""
-		"CSGO_Inventory_Team_T"				""
-		
-	// INVENTORY EXTERIOR
-		
-		"SFUI_InvTooltip_Wear_Amount_0"		"Factory New (0 - 0.07)"
-		"SFUI_InvTooltip_Wear_Amount_1"		"Minimal Wear (0.07 - 0.15)"
-		"SFUI_InvTooltip_Wear_Amount_2"		"Field-Tested (0.15 - 0.38)"
-		"SFUI_InvTooltip_Wear_Amount_3"		"Well-Worn (0.38 - 0.45)"
-		"SFUI_InvTooltip_Wear_Amount_4"		"Battle-Scarred (0.45 - 1)"
-		
-	// NOW PLAYING INFORMATION (IN-GAME)
-	
-		"SFUI_NowPlaying_T"					"NEW ROUND"
-		"SFUI_NowPlaying_CT"				"NEW ROUND"
-		"SFUI_Notice_Hint_Bot_Takeover"		"PLAYING AS BOT %s1."
-	
-	// WARNING & INFO MESSAGES (IN-GAME)
-		
-		"Cstrike_TitlesTXT_Bomb_Defused"	"Bomb defused"
-		"Cstrike_TitlesTXT_Bomb_Planted"	"Big boom boom go boom in (%s1 seconds left)"
-		"SFUI_Notice_Got_Bomb"				"You got the bomb."
-		"SFUI_Notice_YouDroppedWeapon"		"Dropped %s1"
-		
-	// LOADING SCREEN
-		
-		"LoadingProgress_SpawningServer"	"(0%) Starting local game server..."
-		"LoadingProgress_ProcessServerInfo"	"(10%) Retrieving server info..."
-		"LoadingProgress_LoadMap"			"(10%) Loading world..."
-		"LoadingProgress_PrecacheWorld"		"(20%) Initializing world..."
-		"LoadingProgress_LoadResources"		"(50%) Loading resources..."
-		"LoadingProgress_Connecting"		"(75%) Connecting to server..."
-		"LoadingProgress_SendClientInfo"	"(75%) Sending client info..."
-		"LoadingProgress_SignonLocal"		"(80%) Initializing resources..."
-		"LoadingProgress_SignonData"		"(90%) Retrieving game data..."
-		"LoadingProgress_SignonDataLocal"	"(90%) Initializing game data..."
-		
-	// DAMAGE INFO (IN-GAME)
-		
-		"Panorama_FreezePanel_DamageTaken"				"<font color='#A0A0A0'>Damage taken:  </font><font color='#ff0000'><b>{d:damage_taken}</b></font> <font color='#A0A0A0'> in</font> <font color='#ff0000'><b>{d:hits_taken} hit </b></font> <font color='#A0A0A0'>from {s:killer_name}</font>"
-		"Panorama_FreezePanel_DamageGiven"				"<font color='#A0A0A0'>Damage given:  </font><font color='#00ff00'><b>{d:damage_given}</b></font> <font color='#A0A0A0'> in</font> <font color='#00ff00'><b>{d:hits_given} hit </b></font> <font color='#A0A0A0'>to {s:killer_name}</font>"
-		"Panorama_FreezePanel_DamageTaken_Multi"		"<font color='#A0A0A0'>Damage taken:  </font><font color='#ff0000'><b>{d:damage_taken}</b></font> <font color='#A0A0A0'> in</font> <font color='#ff0000'><b>{d:hits_taken} hits </b></font> <font color='#A0A0A0'>from {s:killer_name}</font>"
-		"Panorama_FreezePanel_DamageGiven_Multi"		"<font color='#A0A0A0'>Damage given:  </font><font color='#00ff00'><b>{d:damage_given}</b></font> <font color='#A0A0A0'> in</font> <font color='#00ff00'><b>{d:hits_given} hits </b></font> <font color='#A0A0A0'>to {s:killer_name}</font>"
-		"Panorama_Freeze_Snapshot"						""
-		
-	// TARGET PLAYER (IN-GAME) 
-	
-		"Panorama_HUD_playerid_sameteam"		"<font color='#00ff00'>{s:player_name} - {d:player_health}%</font>"
-		"Panorama_HUD_playerid_diffteam"		"<font color='#ff0000'>{s:player_name}</font>"
-		
-	// JOIN MESSAGE (CHAT)
-		
-		"Cstrike_game_join_spectators"			"%s1 > Spectators\n"
-		"Cstrike_game_join_terrorist"			"%s1 > 	T\n"
-		"Cstrike_game_join_ct"					"%s1 > CT\n"
-		
-	// TEAM ATTACK MESSAGE (CHAT)
-		
-		"Cstrike_TitlesTXT_Game_teammate_attack" 		" %s1 attacked a teammate."
-		
-	// PLANTING/DEFUSING MESSAGES (CHAT)
-		
-		"Cstrike_TitlesTXT_Defusing_Bomb"				"* Defusing *"
-		"Cstrike_TitlesTXT_Planting_Bomb"				"* Planting *"
-		
-	// YES/NO RADIO RESPONSE (CHAT)
-	
-		"Cstrike_TitlesTXT_Roger_that"					"Yes."
-		"Cstrike_TitlesTXT_Affirmative"					"Yes."
-		"Cstrike_TitlesTXT_Negative"					"No."
-		
-	// AWARD MESSAGES (CHAT)
-		
-		"Player_Cash_Award_ExplainSuicide_YouGotCash"			"(+$%s2 for the suicide of %s1)"
-		"Player_Cash_Award_ExplainSuicide_TeammateGotCash"		"Teammate %s3 was awarded +$%s2 for the suicide of %s1."
-		"Player_Cash_Award_ExplainSuicide_EnemyGotCash"			"Enemy player was awarded for the suicide of %s1."
-		"Player_Cash_Award_ExplainSuicide_Spectators"			" %s3 was awarded +$%s2 for the suicide of %s1."
-		
-	// CASH AWARD MESSAGES (CHAT)
-		
-		"Player_Cash_Award_Kill_Teammate"				"+$%s1 • Teamkill"
-		"Player_Cash_Award_Killed_Enemy_Generic" 		"+$%s1 • Kill"
-		"Player_Cash_Award_Killed_Enemy"				"+$%s1 • %s2"
-		"Player_Cash_Award_Bomb_Planted"				"+$%s1 • C4 planted"
-		"Player_Cash_Award_Bomb_Defused"				"+$%s1 • C4 defused"
-		"Player_Cash_Award_Rescued_Hostage"				"+$%s1 • Hostage rescued"
-		"Player_Cash_Award_Interact_Hostage"			"+$%s1 • Hostage reached"
-		"Player_Cash_Award_Respawn"						"+$%s1 • Respawn"
-		"Player_Cash_Award_Get_Killed"					"+$%s1 • Award for being eliminated"
-		"Player_Cash_Award_Damage_Hostage"				"+$%s1 • Hostage wounded"
-		"Player_Cash_Award_Kill_Hostage"				"+$%s1 • Hostage killed"		
-		"Team_Cash_Award_T_Win_Bomb"					"+$%s1 • C4 detonated"
-		"Team_Cash_Award_Elim_Hostage"					"+$%s1 • Team elimination"
-		"Team_Cash_Award_Elim_Bomb"						"+$%s1 • Team elimination"
-		"Team_Cash_Award_Win_Time"						"+$%s1 • Time is up"
-		"Team_Cash_Award_Win_Defuse_Bomb"				"+$%s1 • C4 defused"
-		"Team_Cash_Award_Win_Hostages_Rescue"			"+$%s1 • Hostages rescued"
-		"Team_Cash_Award_Win_Hostage_Rescue"			"+$%s1 • Hostage rescued"
-		"Team_Cash_Award_Loser_Bonus"					"+$%s1 • Round lost"
-		"Team_Cash_Award_Loser_Zero"					"+$%s1 • Income for dead players on losing team."
-		"Team_Cash_Award_Rescued_Hostage"				"+$%s1 • Hostage rescued"
-		"Team_Cash_Award_Hostage_Interaction"			"+$%s1 • Hostage reached"
-		"Team_Cash_Award_Hostage_Alive"					"+$%s1 • Hostages survived"
-		"Team_Cash_Award_Planted_Bomb_But_Defused"		"+$%s1 • C4 planted"
-		"Team_Cash_Award_no_income"						"+$0 • Out of time and survived"
-		"Team_Cash_Award_no_income_suicide"				"+$0 • Suicide"
-		"Team_Cash_Award_Generic"						"+$%s1 • Team award"
-		"Team_Cash_Award_Custom"						"+$%s1 • %s2"
-		
-	// GRENADE MESSAGES (CHAT)
-		"Game_radio"							"%s1 : [ %s2 ]"
-		"Game_radio_location"					"%s1 : %s3 [ %s2 ]"
-		"Cstrike_Chat_CT_Loc"					"[CT] %s1 @ %s3 :  %s2"
-		"Cstrike_Chat_CT"						"[CT] %s1 :  %s2"
-		"Cstrike_Chat_T_Loc"					"[T] %s1 @ %s3 :  %s2"
-		"Cstrike_Chat_T"						"[T] %s1 :  %s2"
-		"Cstrike_Chat_CT_Dead"					"[CT]*DEAD* %s1 :  %s2"
-		"Cstrike_Chat_T_Dead"					"[T]*DEAD* %s1 :  %s2"
-		"Cstrike_Chat_Spec"						"[Spectators] %s1 :  %s2"
-		"SFUI_TitlesTXT_Fire_in_the_hole" 		"Grenade"
-		"SFUI_TitlesTXT_Molotov_in_the_hole" 	"Molotov"
-		"SFUI_TitlesTXT_Incendiary_in_the_hole" "Incendiary"
-		"SFUI_TitlesTXT_Flashbang_in_the_hole" 	"Flash"
-		"SFUI_TitlesTXT_Smoke_in_the_hole" 		"Smoke"
-		"SFUI_TitlesTXT_Decoy_in_the_hole" 		"Decoy"
+{
+    "Cstrike_TitlesTXT_Bomb_Defused"                    "Bomb defused"
+    "Cstrike_TitlesTXT_Bomb_Planted"                    "Bomb planted, %s1 seconds left"
+    "SFUI_Notice_YouDroppedWeapon"                      "Dropped %s1"
+    "Cstrike_TitlesTXT_Got_bomb"                        "Picked up the bomb"
+    "Cstrike_TitlesTXT_Got_defuser"                     "Picked up defuse kit"
+    "Cstrike_TitlesTXT_Weapon_Pickup"                   "Picked up %s1"
 
-		
-	// ============= VERSION 4.1 ==================================================================
-	
-		// DANGER ZONE SKILL GROUPS
-	
-		"skillgroup_1dangerzone"			"(1/15) Lab Rat I"
-		"skillgroup_2dangerzone"			"(2/15) Lab Rat II"
-		"skillgroup_3dangerzone"			"(3/15) Sprinting Hare I"
-		"skillgroup_4dangerzone"			"(4/15) Sprinting Hare II"
-		"skillgroup_5dangerzone"			"(5/15) Wild Scout I"
-		"skillgroup_6dangerzone"			"(6/15) Wild Scout II"
-		"skillgroup_7dangerzone"			"(7/15) Wild Scout Elite"
-		"skillgroup_8dangerzone"			"(8/15) Hunter Fox I"
-		"skillgroup_9dangerzone"			"(9/15) Hunter Fox II"
-		"skillgroup_10dangerzone"			"(10/15) Hunter Fox III"
-		"skillgroup_11dangerzone"			"(11/15) Hunter Fox Elite"
-		"skillgroup_12dangerzone"			"(12/15) Timber Wolf"
-		"skillgroup_13dangerzone"			"(13/15) Ember Wolf"
-		"skillgroup_14dangerzone"			"(14/15) Wildfire Wolf"
-		"skillgroup_15dangerzone"			"(15/15) The Howling Alpha"
-		
-		// TRUST FACTOR WARNING
-		
-		"SFUI_QMM_ERROR_X_AccountWarningTrustMinor"	"Beware: %s1 has a slightly lower Trust Factor than yours."
-		"SFUI_QMM_ERROR_X_AccountWarningTrustMajor"	"Warning: %s1 has a MUCH lower Trust Factor than yours."
-		
-		// HINT TIPS
-		
-		"SFUI_Hint_Accurate_Range"		"Avoid using burst fire-mode on the Famas as it can be more unreliable than practical in duels."
-		"SFUI_Hint_Flashbang_Careful"	"Practice throwing perfectly timed pop-flashes for your teammates so the enemy has no time to react."
-		"SFUI_Hint_BuyArmor"			"You might not need to buy a helmet. If you're up against AK-47s you may want to use that money on a better weapon."
-		"SFUI_Hint_BuyArmor2"			"You might not need to buy a helmet. If you're up against AK-47s you may want to use that money on a better weapon."
-		"SFUI_Hint_Defusal_Speed"		"Make sure someone has a defuse kit on pistol round!"
-		"SFUI_Hint_Defuse_Wins"         "While defusing you can crouch, look straight down and even turn around to avoid getting killed."
-		"SFUI_Hint_Backstab"			"You get $1500 per knife-kill, but it is not always simple to do, so make sure you do it when it really counts."
-		"SFUI_Hint_Flashbang_Turn"		"You can fake a grenade throw so enemies hear the pin by switching at just the right time."
-		"SFUI_Hint_Jump_Accuracy"		"Jumping slows your movement and decreases your accuracy, but most importantly can trigger a sound that enemies can hear."
-		"SFUI_Hint_Stand_While_Sniping" "Very rarely will you need to use the double-zoom on a sniper rifle."
-		"SFUI_Hint_KillingHostage"      "Just try your best not to be a watermelon. Your odds of winning will increase if you can work together as a team."
-		"SFUI_Hint_Stick_With_Team"		"Always be proactive between rounds. Be ready to push if a teammate is going out so you can trade kill if necessary."
-		"SFUI_Hint_Ammo_Mangement"		"If you don't want to run out of bullets on a pistol round, you can go for the P2000 which is a great alternative to the USP-S."
-		"SFUI_Hint_Vulnerable_Reloading" "Remember that you can fake reload to bait out an enemy, but make sure you have enough reserve bullets to land the kill."
-		"SFUI_Hint_BeQuicker"			"It is important to take early map control when a new round starts. Learn a few nades on all maps to make this objective easier."
-		"SFUI_Hint_AvoidWater"			"Water on maps like 'Overpass' make a lot of noise, so avoid stepping on it if you can."
-		"SFUI_Hint_PickupGuns"			"Always ask if someone wants an enemy weapon on the ground that you normally can't buy on your side."
-		"SFUI_Hint_Quote_Claudius1"		"'You are not my friend, you are my brother my friend.'  ~PashaBiceps"
-		
-		// LOOKING TO PLAY
-		
-		"advertising_for_hire_competitive"					"<img src='file://{images}/icons/ui/competitive.svg' class=''/>Matchmaking"
-		"advertising_for_hire_scrimcomp2v2"					"<img src='file://{images}/icons/ui/scrimcomp2v2.svg' class=''/>Wingman"
-		"advertising_for_hire_survival"						"<img src='file://{images}/icons/ui/survival.svg' class=''/>Danger Zone"
-		
+    "SFUI_Notice_CTs_Clinched_Match"                    " ★ CTs won the match"
+    "SFUI_Notice_Ts_Clinched_Match"                     " ★ Ts won the match"
+    "hostagerescuetime"                                 " CTs got more time by reaching a hostage"
+    "SFUI_Notice_All_Players_Connected"                 " Match will start in %s1 seconds"
 
-// ---------------------------------------------------------------------------------------------
-}
+    "quest_complete_the_match"                          "Finish the match"
+    "CSGO_Spray_Auto_Toggle"                            "Quick Graffiti"
 
-// - White
-// - Red
-// - Team color (may cause player's color dot before symbol)
-// - Green
-// - Light green
-// - Green(money awards)
-// - Light red
-// - CT color
-//	 - T color
-// - Light blue
-// - Blue
-// - Violet
-// - Light red 2
+    "Cstrike_game_join_spectators"                      " %s1 joined Spectators"
+    "Cstrike_game_join_terrorist"                       " %s1 joined T"
+    "Cstrike_game_join_ct"                              " %s1 joined CT"
+    "Cstrike_TitlesTXT_Game_teammate_attack"            " %s1 attacked a teammate"
+    "csgo_player_left_game"                             " %s1 left (%s2)"
 
+    "Cstrike_TitlesTXT_Defusing_Bomb"                   "Defusing"
+    "Cstrike_TitlesTXT_Planting_Bomb"                   "Planting"
+
+    "SFUI_TitlesTXT_Fire_in_the_hole"                   "• Grenade"
+    "SFUI_TitlesTXT_Molotov_in_the_hole"                "• Molotov"
+    "SFUI_TitlesTXT_Incendiary_in_the_hole"             "• Incendiary"
+    "SFUI_TitlesTXT_Flashbang_in_the_hole"              "• Flash"
+    "SFUI_TitlesTXT_Smoke_in_the_hole"                  "• Smoke"
+    "SFUI_TitlesTXT_Decoy_in_the_hole"                  "• Decoy"
+
+    "Player_You_Are_Now_Dominating"                     "Dominating %s1"
+    "Player_You_Are_Still_Dominating"                   "Still dominating %s1"
+
+    "Game_radio"                                        "%s1 : %s2"
+    "Game_radio_location"                               "%s1 [%s2] %s3"
+    "Cstrike_Chat_CT_Loc"                               "%s1 [%s3] (CT): %s2"
+    "Cstrike_Chat_T_Loc"                                "%s1 [%s3] (T): %s2"
+    "Cstrike_Chat_CT_Dead"                              "%s1 [Dead] (CT): %s2"
+    "Cstrike_Chat_T_Dead"                               "%s1 [Dead] (T): %s2"
+    "Cstrike_Chat_CT"                                   "%s1 (CT): %s2"
+    "Cstrike_Chat_T"                                    "%s1 (T): %s2"
+    "Cstrike_Chat_Spec"                                 "%s1 (SPEC): %s2"
+    "Cstrike_Chat_All"                                  "%s1 : %s2"
+    "Cstrike_Chat_AllDead"                              "%s1 [Dead]: %s2"
+    "Cstrike_Chat_AllSpec"                              "%s1 [SPEC]: %s2"
+
+    "Player_Cash_Award_Bomb_Defused"                    " +$%s1 • Bomb defused"
+    "Player_Cash_Award_Bomb_Planted"                    " +$%s1 • Bomb planted"
+    "Player_Cash_Award_Damage_Hostage"                  " -$%s1 • Hostage wounded"
+    "Player_Cash_Award_Get_Killed"                      " +$%s1 • Eliminated"
+    "Player_Cash_Award_Interact_Hostage"                " +$%s1 • Hostage reached"
+    "Player_Cash_Award_Kill_Hostage"                    " -$%s1 • Hostage killed"
+    "Player_Cash_Award_Kill_Teammate"                   " -$%s1 • Teamkill"
+    "Player_Cash_Award_Killed_Enemy"                    " +$%s1 • Kill with %s2"
+    "Player_Cash_Award_Killed_Enemy_Generic"            " +$%s1 • Kill"
+    "Player_Cash_Award_Killed_VIP"                      " +$%s1 • VIP kill"
+    "Player_Cash_Award_Rescued_Hostage"                 " +$%s1 • Hostage rescued"
+    "Player_Cash_Award_Respawn"                         " +$%s1 • Respawn"
+
+    "Team_Cash_Award_CT_VIP_Escaped"                    " +$%s1 • Evac'ed the VIP"
+    "Team_Cash_Award_Custom"                            " +$%s1 • %s2"
+    "Team_Cash_Award_Elim_Bomb"                         " +$%s1 • Team elimination"
+    "Team_Cash_Award_Elim_Hostage"                      " +$%s1 • Team elimination"
+    "Team_Cash_Award_Generic"                           " +$%s1 • Team award"
+    "Team_Cash_Award_Hostage_Alive"                     " +$%s1 • Hostages survived"
+    "Team_Cash_Award_Hostage_Interaction"               " +$%s1 • Hostage reached"
+    "Team_Cash_Award_Loser_Bonus"                       " +$%s1 • Round lost"
+    "Team_Cash_Award_Loser_Bonus_Neg"                   " -$%s1 • Round lost"
+    "Team_Cash_Award_Bonus_Shorthanded"                 " +$%s1 • Short-handed income"
+    "Team_Cash_Award_Loser_Zero"                        " -$%s1 • Dead players on losing team"
+    "Team_Cash_Award_Planted_Bomb_But_Defused"          " +$%s1 • Bomb planted"
+    "Team_Cash_Award_Rescued_Hostage"                   " +$%s1 • Hostage rescued"
+    "Team_Cash_Award_Survive_GuardianMode_Wave"         " +$%s1 • Survived the wave"
+    "Team_Cash_Award_T_VIP_Killed"                      " +$%s1 • Neutralized the VIP"
+    "Team_Cash_Award_T_Win_Bomb"                        " +$%s1 • Bomb exploded"
+    "Team_Cash_Award_Win_Defuse_Bomb"                   " +$%s1 • Bomb defused"
+    "Team_Cash_Award_Win_Hostage_Rescue"                " +$%s1 • Hostage rescued"
+    "Team_Cash_Award_Win_Hostages_Rescue"               " +$%s1 • Hostages rescued"
+    "Team_Cash_Award_Win_Time"                          " +$%s1 • Time is up"
+    "Team_Cash_Award_no_income"                         " +$0 • Time is up"
+    "Team_Cash_Award_no_income_suicide"                 " +$0 • Suicide"
+
+    "Player_Point_Award_Assist_Enemy"                   " +%s1 • Assisted killing %s2"
+    "Player_Point_Award_Assist_Enemy_Plural"            " +%s1 • Assisted killing %s2"
+    "Player_Point_Award_Killed_Enemy"                   " +%s1 • Kill with %s2"
+    "Player_Point_Award_Killed_Enemy_Plural"            " +%s1 • Kill with %s2"
+    "Player_Point_Award_Killed_Enemy_NoWeapon"          " +%s1 • Kill"
+    "Player_Point_Award_Killed_Enemy_NoWeapon_Plural"   " +%s1 • Kill"
+
+    "Player_Cash_Award_ExplainSuicide_EnemyGotCash"     " %s1 committed suicide, enemy player received a bonus"
+    "Player_Cash_Award_ExplainSuicide_Spectators"       " %s3 received +$%s2 for the suicide of %s1"
+    "Player_Cash_Award_ExplainSuicide_TeammateGotCash"  " %s3 received +$%s2 for the suicide of %s1"
+    "Player_Cash_Award_ExplainSuicide_YouGotCash"       " +$%s2 • Suicide of %s1"
+
+    "Notice_Bonus_Enemy_Team"                           " Enemies received $%s1 short-handed income"
+    "Notice_Bonus_Shorthanded_Eligibility"              " Short-handed income in %s1 rounds"
+    "Notice_Bonus_Shorthanded_Eligibility_Single"       " Short-handed income in 1 round"
+
+    "match_ready_accept"				                "DERANK NOW"
+
+    // C01 #ffffff  - Normal, white
+    // C02 #ff0000  - "Use old colors", dark red
+    // C03 #ba81f0  - Player name, team color (CT - #a2c6ff, T - #ffdf93)
+    // C04 #40ff40  - Location, bright green
+    // C05 #bfff90  - Achievement, light green
+    // C06 #a2ff47  - Award, bright green
+    // C07 #ff4040  - Penalty, light red
+    // C08 #c5cad0  - Silver
+    // C09 #ede47a (tab character) - Gold
+
+    // C10 #b0c3d9 (line feed) - Common?
+    // C11 #5e98d9  - Uncommon, very light blue
+    // C12 #4b69ff  - Rare, darker blue
+    // C13 #8847ff (carriage return) - Mythical?
+    // C14 #d32ce6  - Legendary, purple
+    // C15 #eb4b4b  - Ancient, lighter red
+    // C16 #e4ae39  - Immortal, orange
 }
