@@ -1,35 +1,25 @@
-> ## CS2 Beta
-> 
-> Release files may not be up to date for CS2 at this time.
-> 
-> Configs updated for CS2 can be found here:
-> 
-> [Beta Branch for manual download (most up to date link)](https://github.com/PINPAL/CSGO-Autoexec/tree/cs2-60%25)
-> 
-> Release Files: [CS2 Beta Release Files](https://github.com/PINPAL/CSGO-Autoexec/releases/tag/3.0.0)
-> 
+# CS2 Configs
 
-# CSGO Configs
-
-**Config Files for CS:GO - Includes custom execs for custom gamemodes.<br/>**
+**Config Files for CS2 - Includes custom execs for custom gamemodes.<br/>**
 
 # Installation
 
 1. Download [the latest release from Github](https://github.com/PINPAL/CSGO-Autoexec/releases/latest/download/configs.zip)
 2. Extract the zip file to find 2 folders inside.
 3. Open Steam
-4. Right click CS:GO and click `Properties`
+4. Right click Counter Strike 2 and click `Properties`
 5. In the `Launch Options` box at the bottom of this window, insert the following:
 
 ```
-+exec autoexec -preload -fullscreen -high -language pinpal -novid -tickrate 128 -nojoy -allow_third_party_software
++exec autoexec -novid -nojoy -allow_third_party_software
 ```
 
 4. Navigate to the `Installed Files` tab along the left side.
 5. Click the `Browse` button
-6. In the window that pops up navigate to the folder named `csgo`
-7. Then place the 2 folders named `resource` and `cfg` from the download into this folder.
-8. Launch CS:GO and enjoy!
+6. In the window that pops up navigate to the folder named `game`
+7. Then navigate to the folder called `csgo`
+8. Then place the 2 folders named `resource` and `cfg` from the download into this folder.
+9. Launch Counter Strike 2 and enjoy!
 
 # Includes:
 
@@ -48,7 +38,7 @@
 
 # Keybindings
 
-![Binds](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/console.png)
+![Binds](https://raw.githubusercontent.com/PINPAL/CSGO-Autoexec/master/readme/CS2.png)
 
 ## For GOTV Demo Playback
 
