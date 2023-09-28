@@ -14,7 +14,6 @@
     "controller*.cfg": true,
     "game*.cfg": true,
     "op08*.cfg": true,
-    "*.dem": true,
     // Specific Selects for config files
     "ai.cfg": true,
     "beat.cfg": true,
@@ -46,6 +45,7 @@
     "*.scr": true,
     "*.txt": true,
     "*.rc": true,
-    "*.vcfg": true
+    "*.vcfg": true,
+    "*.dem": true
   }
 }
