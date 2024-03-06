@@ -41,11 +41,11 @@
 ![Binds](https://raw.githubusercontent.com/PINPAL/CS2-Autoexec/master/readme/CS2.png)
 
 ## For GOTV Demo Playback
-Note: This config is still being worked on for CS2
 ![DemoControls](https://raw.githubusercontent.com/PINPAL/CS2-Autoexec/master/readme/demo_controls.png)
 
 # Supported Keyboard Layout
 
+All keyboard languages supported. This config uses the new CS2 Scancodes instead of "static" bindings.
 ![](https://github.com/PINPAL/CSGO-Autoexec/blob/master/readme/large.png?raw=true)
 ![](https://github.com/PINPAL/CSGO-Autoexec/blob/master/readme/compact.png?raw=true)
 All layouts supported but only keys present on 60% are used.<br/>
