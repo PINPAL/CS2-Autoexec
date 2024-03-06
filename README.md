@@ -4,7 +4,7 @@
 
 # Installation
 
-1. Download [the latest release from Github](https://github.com/PINPAL/CS2-Autoexec/releases/latest/download/configs.zip)
+1. Download [the latest release from Github](https://github.com/PINPAL/CS2-Autoexec/releases/latest/download/CS2-Autoexec.zip)
 2. Extract the zip file to find 2 folders inside.
 3. Open Steam
 4. Right click Counter Strike 2 and click `Properties`
