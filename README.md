@@ -18,7 +18,7 @@
 5. Click the `Browse` button
 6. In the window that pops up navigate to the folder named `game`
 7. Then navigate to the folder called `csgo`
-8. Then place the 2 folders named `resource` and `cfg` from the download into this folder.
+8. Then place the folder named `cfg` from the download into this folder.
 9. Launch Counter Strike 2 and enjoy!
 
 # Includes:
