@@ -23,29 +23,30 @@
 
 # Includes:
 
-- Viewmodel
-- Crosshair
-- Grenade Crosshair
-- Network Optimisations
-- Performance Optimisations
-- Sound Config
-- Basic Keybinds
-- Grenade Keybinds
-- Buy Menu Binds
-- Shortened Command Aliases
-- Language File Simplifications
-- Gamemode Execs (bhop/kz/1v1) for local hosting
+-   Viewmodel
+-   Crosshair
+-   Grenade Crosshair
+-   Network Optimisations
+-   Performance Optimisations
+-   Sound Config
+-   Basic Keybinds
+-   Grenade Keybinds
+-   Buy Menu Binds
+-   Shortened Command Aliases
+-   Language File Simplifications
+-   Gamemode Execs (bhop/kz/1v1) for local hosting
 
 # Keybindings
 
-![Binds](https://raw.githubusercontent.com/PINPAL/CS2-Autoexec/master/readme/CS2.png)
+![Binds](https://raw.githubusercontent.com/PINPAL/CS2-Autoexec/master/readme/autoexec_console.png?raw=true)
 
 ## For GOTV Demo Playback
-![DemoControls](https://raw.githubusercontent.com/PINPAL/CS2-Autoexec/master/readme/demo_controls.png)
+
+![DemoControls](https://raw.githubusercontent.com/PINPAL/CS2-Autoexec/master/readme/demo_console.png?raw=true)
 
 # Supported Keyboard Layout
 
 All keyboard languages supported. This config uses the new CS2 Scancodes instead of "static" bindings.
-![](https://github.com/PINPAL/CSGO-Autoexec/blob/master/readme/large.png?raw=true)
-![](https://github.com/PINPAL/CSGO-Autoexec/blob/master/readme/compact.png?raw=true)
+![](https://github.com/PINPAL/CSGO-Autoexec/blob/master/readme/keyboard_large.png?raw=true)
+![](https://github.com/PINPAL/CSGO-Autoexec/blob/master/readme/keyboard_compact.png?raw=true)
 All layouts supported but only keys present on 60% are used.<br/>
