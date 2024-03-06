@@ -46,7 +46,8 @@
 
 # Supported Keyboard Layout
 
-All keyboard languages supported. This config uses the new CS2 Scancodes instead of "static" bindings. Eg: `W` → `scancode26`
+All keyboard languages supported. This config uses the new CS2 Scancodes instead of "static" bindings.<br/>
+For Example: `W` → `scancode26`
 
 Keyboard layouts of all sizes are supported but only keys present on 60% are used.<br/>
 ![](https://github.com/PINPAL/CSGO-Autoexec/blob/master/readme/keyboard_large.png?raw=true)
