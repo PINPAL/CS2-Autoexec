@@ -12,12 +12,7 @@
 !comp.cfg
 !.gitignore
 !printMsg.cfg
-
-!crosshair_recoilOn.cfg
-!crosshair_recoilOff.cfg
-!crosshair_cross.cfg
-!crosshair_dot.cfg
-!crosshair_reset.cfg
+!illegal.cfg
 
 !.vscode
 !.vscode/**
