@@ -41,7 +41,7 @@
 ![Binds](https://raw.githubusercontent.com/PINPAL/CS2-Autoexec/master/readme/autoexec_console.png?raw=true)
 
 ## For GOTV Demo Playback
-
+Simple type `uidemo` into the console to load the settings specific for watching demos. You can return to regular bindings once done by entering `ae` into the console.
 ![DemoControls](https://raw.githubusercontent.com/PINPAL/CS2-Autoexec/master/readme/demo_console.png?raw=true)
 
 # Supported Keyboard Layout
