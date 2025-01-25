@@ -1,18 +1,12 @@
 *
 !README.md
 !autoexec.cfg
-!bhop.cfg
-!buybinds.cfg
-!prac.cfg
-!demo.cfg
-!keybinds.cfg
 !knifeMenu.cfg
-!kz.cfg
-!lkz.cfg
-!comp.cfg
 !.gitignore
-!printMsg.cfg
-!illegal.cfg
 
+!autoexec
+!autoexec/**
+!gamemodes
+!gamemodes/**
 !.vscode
 !.vscode/**
