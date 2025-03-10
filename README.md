@@ -11,7 +11,7 @@
 5. In the `Launch Options` box at the bottom of this window, insert the following:
 
 ```
-+exec autoexec -novid -nojoy -allow_third_party_software
++exec autoexec -novid -nojoy
 ```
 
 4. Navigate to the `Installed Files` tab along the left side.
