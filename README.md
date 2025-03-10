@@ -5,21 +5,20 @@
 # Installation
 
 1. Download [the latest release from Github](https://github.com/PINPAL/CS2-Autoexec/releases/latest/download/CS2-Autoexec-CFG-Config-Files.zip)
-2. Extract the zip file to find a `cfg` folder inside.
+2. Extract the zip file and you will find various `.cfg` files alongside folders inside
 3. Open Steam
 4. Right click Counter Strike 2 and click `Properties`
 5. In the `Launch Options` box at the bottom of this window, insert the following:
-
 ```
 +exec autoexec -novid -nojoy
 ```
-
-4. Navigate to the `Installed Files` tab along the left side.
+4. Navigate to the `Installed Files` tab along the left side
 5. Click the `Browse` button
-6. In the window that pops up navigate to the folder named `game`
-7. Then navigate to the folder called `csgo`
-8. Then place the folder named `cfg` from the download into this folder.
-9. Launch Counter Strike 2 and enjoy!
+6. In the file explorer window that opens, navigate to the folder named `game`
+7. Then navigate to the folder named `csgo`
+8. Then navigate to the folder named `cfg`
+9. Then place all `.cfg` files AND folders from the extracted zip into this folder
+10. Launch Counter Strike 2 and enjoy!
 
 # Includes:
 
