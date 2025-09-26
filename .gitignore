@@ -10,3 +10,8 @@
 !gamemodes/**
 !.vscode
 !.vscode/**
+
+!desubtick
+!desubtick/+ah.cfg
+!desubtick/-ah.cfg
+!desubtick/j.cfg
