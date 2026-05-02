@@ -23,6 +23,7 @@
         "ai.cfg": true,
         "beat.cfg": true,
         "config*.cfg": true,
+        "devonly": true,
         "entity.cfg": true,
         "fliphand.cfg": true,
         "hud.cfg": true,
