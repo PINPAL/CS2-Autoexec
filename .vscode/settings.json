@@ -14,6 +14,7 @@
             "url": "./.vscode/probe.doc-schema.json"
         }
     ],
+    "explorer.excludeGitIgnore": false,
     "files.exclude": {
         // Wildcard Selects for config files
         "controller*.cfg": true,
